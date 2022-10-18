@@ -4,6 +4,6 @@
 - 📫 I'm from Ukraine. My instagram profile: @ruslan.yarosh
 
 <!---
-HaZe-UA/HaZe-UA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ruslan-yarosh/ruslan-yarosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
