@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HaZe-UA. My real name is Ruslan.
+- 👋 Hi, I’m Ruslan Yarosh
 - 👀 I’m interested in frontend development, music, footbal and computer games.
 - 🌱 I’m currently learning frontend development
 - 📫 I'm from Ukraine. My instagram profile: @ruslan.yarosh
